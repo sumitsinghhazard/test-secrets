@@ -1,1 +1,5 @@
-A
+AWS_KEY = 'DESFESFS753993'
+secret = 5777
+token = 'fhkbsjnflsknelf'
+password = 'kcbjhrbksn'
+Jon Booga
